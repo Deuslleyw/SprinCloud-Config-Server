@@ -1,1 +1,1 @@
-# SprinCloud-Config-Server
+# SpringCloud-Config-Server
